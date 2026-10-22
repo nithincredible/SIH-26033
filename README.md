@@ -99,16 +99,17 @@ Farmers get paid late   &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;-&
 -Quality differences in produce.<br>
 
 ## Impact and Benefits
-1. Impact on the target audience<br>
+
+1.Impact on the target audience<br>
 -Farmers/FPOs: Higher income and quicker payment, and they can plan crops using demand data.<br>
--Consumers: Fresh produce at lower prices.v
+-Consumers: Fresh produce at lower prices.<br>
 -Bulk buyers: Reliable supply and transparent pricing.<br>
 -Government: Better supply chain visibility and data for policy decisions.<br>
 <br>
-2. Benefits
--Social: Empowers small farmers and supports rural livelihoods.
--Economic: Reduces middlemen shares, Decrease transport charges, boosts farmer income, and lowers consumer prices.
--Environmental: Less food waste through faster delivery, and fewer fuel emissions through optimized routes.
+2.Benefits<br>
+-Social: Empowers small farmers and supports rural livelihoods.<br>
+-Economic: Reduces middlemen shares, Decrease transport charges, boosts farmer income, and lowers consumer prices.<br>
+-Environmental: Less food waste through faster delivery, and fewer fuel emissions through optimized routes.<br>
 
 ## Research and References<br>
 • Agmarknet (mandi price data):[Agmarknet.gov.in](https://agmarknet.gov.in/home)<br>
