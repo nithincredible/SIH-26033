@@ -65,13 +65,13 @@ Farmers get paid late   &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;-&
  Hosting -	AWS or Google Cloud<br>
  Data sources -	Agmarknet / data.gov.in (mandi prices), weather API<br>
 
-2. Methodology (step-by-step process)
- 1)Farmer registers and lists produce.
- 2)Buyer searches, orders, and pays online.
- 3)The AI engine predicts demand and suggests prices.
- 4)The system assigns the nearest delivery partner and the best route.
- 5)The produce is delivered, the buyer confirms, and the farmer gets paid.
- 6)Ratings and feedback improve future recommendations.
+2. Methodology (step-by-step process)<br>
+ 1)Farmer registers and lists produce.<br>
+ 2)Buyer searches, orders, and pays online.<br>
+ 3)The AI engine predicts demand and suggests prices.<br>
+ 4)The system assigns the nearest delivery partner and the best route.<br>
+ 5)The produce is delivered, the buyer confirms, and the farmer gets paid.<br>
+ 6)Ratings and feedback improve future recommendations.<br>
 
 3.Flowchart
  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/b2728ec9-1712-4aaf-8872-1e4f7dc7439a" />
@@ -111,9 +111,9 @@ Farmers get paid late   &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;-&
 -Environmental: Less food waste through faster delivery, and fewer fuel emissions through optimized routes.
 
 ## Research and References<br>
-• Agmarknet (mandi price data):[Agmarknet.gov.in](agmarknet.gov.in)<br>
-• Open Government Data Platform India:[data.gov.in](data.gov.in)<br>
-• e-NAM (National Agriculture Market):[enam.gov.in](enam.gov.in)<br>
+• Agmarknet (mandi price data):[Agmarknet.gov.in](https://agmarknet.gov.in/home)<br>
+• Open Government Data Platform India:[data.gov.in](https://www.data.gov.in/)<br>
+• e-NAM (National Agriculture Market):[enam.gov.in](https://web.umang.gov.in/landing/department/enam.html)<br>
 • FPO scheme details from the Ministry of Agriculture & Farmers Welfare<br>
 • Google Maps Platform and OpenStreetMap documentation<br>
 • News or research articles on middlemen margins in Indian agriculture<br>
