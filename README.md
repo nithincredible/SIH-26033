@@ -112,9 +112,9 @@ Farmers get paid late   &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;-&
 -Environmental: Less food waste through faster delivery, and fewer fuel emissions through optimized routes.<br>
 
 ## Research and References<br>
-• Agmarknet (mandi price data):[Agmarknet.gov.in](https://agmarknet.gov.in/home)<br>
-• Open Government Data Platform India:[data.gov.in](https://www.data.gov.in/)<br>
-• e-NAM (National Agriculture Market):[enam.gov.in](https://web.umang.gov.in/landing/department/enam.html)<br>
+• Agmarknet (mandi price data)&nbsp;:&nbsp;[Agmarknet.gov.in](https://agmarknet.gov.in/home)<br>
+• Open Government Data Platform India&nbsp;:&nbsp;[data.gov.in](https://www.data.gov.in/)<br>
+• e-NAM (National Agriculture Market)&nbsp;:&nbsp;[enam.gov.in](https://web.umang.gov.in/landing/department/enam.html)<br>
 • FPO scheme details from the Ministry of Agriculture & Farmers Welfare<br>
 • Google Maps Platform and OpenStreetMap documentation<br>
 • News or research articles on middlemen margins in Indian agriculture<br>
